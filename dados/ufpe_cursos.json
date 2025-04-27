@@ -1,0 +1,35 @@
+{
+    "Administração": {
+      "pesos": {
+        "redacao": 2.0,
+        "linguagens": 3.0,
+        "humanas": 2.5,
+        "natureza": 1.0,
+        "matematica": 3.5
+      },
+      "nota_corte": {
+        "ampla_concorrencia": 720.0,
+        "cota_escola_publica": 700.0,
+        "cota_renda_baixa": 680.0,
+        "cota_negros_indigenas": 660.0,
+        "cota_deficientes": 640.0
+      }
+    },
+    "Direito": {
+      "pesos": {
+        "redacao": 2.5,
+        "linguagens": 2.5,
+        "humanas": 3.5,
+        "natureza": 1.0,
+        "matematica": 0.5
+      },
+      "nota_corte": {
+        "ampla_concorrencia": 770.0,
+        "cota_escola_publica": 750.0,
+        "cota_renda_baixa": 740.0,
+        "cota_negros_indigenas": 720.0,
+        "cota_deficientes": 700.0
+      }
+    }
+  }
+  
