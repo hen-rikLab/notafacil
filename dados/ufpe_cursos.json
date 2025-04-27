@@ -1,34 +1,98 @@
 {
-    "Administração": {
+    "Psicologia": {
       "pesos": {
-        "redacao": 2.0,
-        "linguagens": 3.0,
-        "humanas": 2.5,
-        "natureza": 1.0,
-        "matematica": 3.5
+        "redacao": 2.5,
+        "linguagens": 1.5,
+        "humanas": 3.0,
+        "natureza": 2.0,
+        "matematica": 1.0
       },
       "nota_corte": {
-        "ampla_concorrencia": 720.0,
-        "cota_escola_publica": 700.0,
-        "cota_renda_baixa": 680.0,
-        "cota_racial": 660.0,
-        "cota_deficientes": 640.0
+        "ampla_concorrencia": 736.27,
+        "cota_escola_publica": 729.87,
+        "cota_renda_baixa": 717.23,
+        "cota_racial": 694.17,
+        "cota_deficientes": 653.17
       }
     },
     "Direito": {
       "pesos": {
-        "redacao": 2.5,
-        "linguagens": 2.5,
-        "humanas": 3.5,
+        "redacao": 3.0,
+        "linguagens": 3.0,
+        "humanas": 2.0,
         "natureza": 1.0,
-        "matematica": 0.5
+        "matematica": 1.0
       },
       "nota_corte": {
-        "ampla_concorrencia": 770.0,
-        "cota_escola_publica": 750.0,
-        "cota_renda_baixa": 740.0,
-        "cota_racial": 720.0,
-        "cota_deficientes": 700.0
+        "ampla_concorrencia": 761.18,
+        "cota_escola_publica": 750.66,
+        "cota_renda_baixa": 729.36,
+        "cota_racial": 722.47,
+        "cota_deficientes": 668.25
+      }
+    },
+    "Medicina": {
+      "pesos": {
+        "redacao": 2.0,
+        "linguagens": 2.0,
+        "humanas": 1.0,
+        "natureza": 3.0,
+        "matematica": 2.0
+      },
+      "nota_corte": {
+        "ampla_concorrencia": 828.31,
+        "cota_escola_publica": 799.58,
+        "cota_renda_baixa": 780.74,
+        "cota_racial": 755.82,
+        "cota_deficientes": 738.59
+      }
+    },
+    "Ciência da Computação": {
+      "pesos": {
+        "redacao": 2.0,
+        "linguagens": 2.0,
+        "humanas": 1.0,
+        "natureza": 1.0,
+        "matematica": 4.0
+      },
+      "nota_corte": {
+        "ampla_concorrencia": 801.38,
+        "cota_escola_publica": 790.59,
+        "cota_renda_baixa": 774.99,
+        "cota_racial": 744.49,
+        "cota_deficientes": 672.71
+      }
+    },
+    "Sistemas de Informação": {
+      "pesos": {
+        "redacao": 3.0,
+        "linguagens": 1.0,
+        "humanas": 1.0,
+        "natureza": 1.0,
+        "matematica": 4.0
+      },
+      "nota_corte": {
+        "ampla_concorrencia": 802.49,
+        "cota_escola_publica": 799.15,
+        "cota_renda_baixa": 778.70,
+        "cota_racial": 741.03,
+        "cota_deficientes": 599.71
+      }
+    },
+    "Engenharia da Computação": {
+      "pesos": {
+        "redacao": 2.0,
+        "linguagens": 1.0,
+        "humanas": 1.0,
+        "natureza": 2.0,
+        "matematica": 4.0
+      },
+      "nota_corte": {
+        "ampla_concorrencia": 794.25,
+        "cota_escola_publica": 790.44,
+        "cota_renda_baixa": 762.36,
+        "cota_racial": 729.88,
+        "cota_deficientes": 580.11
       }
     }
   }
