@@ -11,7 +11,7 @@
         "ampla_concorrencia": 720.0,
         "cota_escola_publica": 700.0,
         "cota_renda_baixa": 680.0,
-        "cota_negros_indigenas": 660.0,
+        "cota_racial": 660.0,
         "cota_deficientes": 640.0
       }
     },
@@ -27,7 +27,7 @@
         "ampla_concorrencia": 770.0,
         "cota_escola_publica": 750.0,
         "cota_renda_baixa": 740.0,
-        "cota_negros_indigenas": 720.0,
+        "cota_racial": 720.0,
         "cota_deficientes": 700.0
       }
     }
