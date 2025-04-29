@@ -1,0 +1,99 @@
+{ 
+    "Pedagogia": {
+      "pesos": {
+        "redacao": 2.0,
+        "linguagens": 4.0,
+        "humanas": 4.0,
+        "natureza": 1.0,
+        "matematica": 1.0
+      },
+      "nota_corte": {
+        "ampla_concorrencia": 629.18,
+        "cota_escola_publica": 628.82,
+        "cota_renda_baixa": 614.95,
+        "cota_racial": 605.58,
+        "cota_deficientes": 513.89
+      }
+    },
+    "Gastronomia": {
+      "pesos": {
+        "redacao": 2.0,
+        "linguagens": 3.0,
+        "humanas": 2.0,
+        "natureza": 3.5,
+        "matematica": 1.5
+      },
+      "nota_corte": {
+        "ampla_concorrencia": 631.70,
+        "cota_escola_publica": 629.82,
+        "cota_renda_baixa": 620.25,
+        "cota_racial": 599.75,
+        "cota_deficientes": 534.60
+      }
+    },
+    "Matemática": {
+      "pesos": {
+        "redacao": 2.0,
+        "linguagens": 3.0,
+        "humanas": 1.5,
+        "natureza": 1.5,
+        "matematica": 4.0
+      },
+      "nota_corte": {
+        "ampla_concorrencia": 637.32,
+        "cota_escola_publica": 643.22,
+        "cota_renda_baixa": 633.94,
+        "cota_racial": 606.55,
+        "cota_deficientes": 479.01
+      }
+    },
+    "Ciência da Computação": {
+      "pesos": {
+        "redacao": 2.0,
+        "linguagens": 3.0,
+        "humanas": 1.5,
+        "natureza": 1.5,
+        "matematica": 4.0
+      },
+      "nota_corte": {
+        "ampla_concorrencia": 739.20,
+        "cota_escola_publica": 734.77,
+        "cota_renda_baixa": 720.06,
+        "cota_racial": 682.71,
+        "cota_deficientes": 598.03
+      }
+    },
+    "Sistemas de Informação": {
+      "pesos": {
+        "redacao": 2.0,
+        "linguagens": 2.5,
+        "humanas": 1.5,
+        "natureza": 3.0,
+        "matematica": 3.0
+      },
+      "nota_corte": {
+        "ampla_concorrencia": 710.98,
+        "cota_escola_publica": 707.64,
+        "cota_renda_baixa": 668.05,
+        "cota_racial": 663.03,
+        "cota_deficientes": 554.02
+      }
+    },
+    "Licenciatura em Computação": {
+      "pesos": {
+        "redacao": 2.0,
+        "linguagens": 2.5,
+        "humanas": 1.5,
+        "natureza": 3.0,
+        "matematica": 3.0
+      },
+      "nota_corte": {
+        "ampla_concorrencia": 650.14,
+        "cota_escola_publica": 645.04,
+        "cota_renda_baixa": 637.74,
+        "cota_racial": 616.44,
+        "cota_deficientes": 525.17
+      }
+    }
+  }
+  
