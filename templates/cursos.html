@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="card shadow p-4 mx-auto" style="max-width: 600px;">
+  <h4 class="mb-3 text-center"><i class="bi bi-journal-text me-2"></i>Escolha um curso</h4>
+  <form method="POST" action="/cursos/{{ universidade }}">
+    <select name="curso" class="form-select mb-4" required>
+      {% for nome in cursos.keys() %}
+      <option value="{{ nome }}">{{ nome }}</option>
+      {% endfor %}
+    </select>
+    <div class="text-end">
+      <button type="submit" class="btn btn-primary">
+        Continuar <i class="bi bi-arrow-right-circle ms-1"></i>
+      </button>
+    </div>
+  </form>
+</div>
+{% endblock %}
