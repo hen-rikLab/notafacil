@@ -104,7 +104,7 @@ Você pode atualizá-los conforme novas edições do SISU.
 
 ## 🧑‍💻 Autor e colaboradores
 
-Desenvolvido por **[Carlos Henrique]**  
+Desenvolvido por **Carlos Henrique**  
 💼 GitHub: [@hen-rikLab](https://github.com/hen-rikLab)  
 📧 Email: c.henrique.silva1103@outlook.com
 
