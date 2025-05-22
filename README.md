@@ -32,8 +32,8 @@
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
-cd nome-do-repo
+git clone https://github.com/hen-rikLab/notafacil.git
+cd notafacil
 ```
 
 2. **Crie e ative um ambiente virtual (opcional, mas recomendado):**
